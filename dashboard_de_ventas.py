@@ -18,7 +18,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from datetime import datetime, timedelta
 import seaborn as sns
-!pip install streamlit
+#!pip install streamlit
 import streamlit as st
 
 #creamos datos sintéticos realistas
